@@ -1,0 +1,22 @@
+body{
+	background-image:url(img/Head%20web/camera.jpg);
+}
+
+.pop p{
+	font-family:DB ComYard;
+	font-style: italic;
+	font-size:24px;
+	color:#AD1616;
+	text-align:right;
+	margin:0;
+}
+
+.pop a{
+	text-decoration: none;
+}
+
+.pop p:hover{
+	color:#545353;
+	text-decoration:underline;
+}
+

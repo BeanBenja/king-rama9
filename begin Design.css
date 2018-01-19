@@ -1,0 +1,30 @@
+/* CSS Document */
+	body{
+		background-image:url(img/Head%20web/beginning.jpg);
+	}
+
+	h1{
+		font-family:"DB Adman";
+		font-size:24px;
+		color:#AD2524;
+		letter-spacing:6px;
+		margin-bottom: 30px;
+	}
+	h2{
+		font-family:"CordiaUPC";
+		font-size:1.5em;
+		color:#AD2524;
+		margin-top: 30px;
+	}
+	h3{
+		font-family:"CordiaUPC";
+		font-size:1.4em;
+		color:#AD2524;
+	}
+	p{
+		color:#333;
+		font-family:"CordiaUPC";
+		font-size:1.5em;
+		text-align:center;
+	}
+

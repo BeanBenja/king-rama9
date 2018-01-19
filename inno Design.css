@@ -1,0 +1,17 @@
+/* CSS Document */
+body{
+	background-image:url(img/Head%20web/innovation.jpg);
+}
+
+h1{
+	font-family:DB Adman;
+	color:#AD2524;
+	letter-spacing: 6px;
+	font-size: 24px;
+}
+p{
+		color:#333;
+		font-family:"CordiaUPC";
+		font-size:1.4em;
+		text-align:center;
+	}
